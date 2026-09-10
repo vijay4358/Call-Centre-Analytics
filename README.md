@@ -49,6 +49,7 @@ Pivot Charts
 Interactive Dashboard
     ↓
 Business Insights & Recommendations
+```
 
 ---
 
@@ -60,10 +61,7 @@ Business Insights & Recommendations
 
 ![Call Centre Report](images/Call_Centre_Report.png)
 
-
-
 ---
-
 
 ## 📊 Key Insights & Recommendations
 
@@ -135,7 +133,6 @@ For the selected representative R03, 88 calls received a 4-star rating and 60 ca
 **💡 Recommendation:**
 Identify the factors behind the strong customer satisfaction levels and focus on converting more 4-star experiences into 5-star experiences.
 
-
 **Note:** These insights and recommendations are based on the analysis of the provided call centre dataset and are intended to demonstrate data-driven decision-making.
 
 ---
@@ -157,17 +154,18 @@ Call-Centre-Analytics/
 
 ## 💼 Skills Demonstrated
 
--Data Cleaning & Preparation
--Excel Data Analysis
--Excel Formulas
--Pivot Tables
--Pivot Charts
--Interactive Dashboard Development
--KPI Analysis
--Business Insight Generation
--Data Visualization
--Data Storytelling
--Problem Solving
+- Data Cleaning & Preparation
+- Excel Data Analysis
+- Excel Formulas
+- Pivot Tables
+- Pivot Charts
+- Interactive Dashboard Development
+- KPI Analysis
+- Business Insight Generation
+- Data Visualization
+- Data Storytelling
+- Problem Solving
+
 ---
 
 ## 📝 Conclusion
